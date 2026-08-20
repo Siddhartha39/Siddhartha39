@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Architecting+Scalable+Full-Stack+Web+Platforms;%F0%9F%94%A5+Real-Time+WebSockets+%26+Distributed+Systems;%F0%9F%8E%96%EF%B8%8F+Patent+Holder+for+CampusKart;%F0%9F%8F%86+SIH+Hackathon+(internal)+%7C+Tech+Expo+%7C+Protech+Winner;%F0%9F%9A%80+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Architecting+Scalable+Full-Stack+Web+Platforms;%F0%9F%94%A5+Real-Time+WebSockets+%26+Distributed+Systems;%F0%9F%8E%96%EF%B8%8F+Patent+Holder+for+CampusKart;%F0%9F%8F%86+%7C+Tech+Expo+SIH+Hackathon+(internal)%7C+Protech+Winner;%F0%9F%9A%80+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
   </a>
 
   <br/>
