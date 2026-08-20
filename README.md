@@ -215,7 +215,7 @@ motto: "Code with precision, architect for scale, innovate with purpose."
 | Client & Project | Domain | Key Deliverables & Tech | Live Link |
 | :--- | :--- | :--- | :---: |
 | **Renuvia Recycling** | Sustainable Tech / Corporate | High-performance responsive web portal, component optimization, modern UX | [🌐 Visit Website](https://renuviarecycling.com/) |
-| **Galaxy Computers & Services** | E-Commerce / Retail | Full-fledged e-commerce platform, dynamic catalog, secure cart & checkout flow | [🛒 Visit Store](https://galaxycomputers.vercel.app/home) |
+| **Galaxy Computers & Services** | E-Commerce / Retail | Full-fledged e-commerce platform, dynamic catalog, secure cart & checkout flow | [🛒 Visit Store](https://www.galaxycomputers.store/) |
 
 </div>
 
