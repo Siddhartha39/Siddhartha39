@@ -156,25 +156,27 @@ motto: "Code with precision, architect for scale, innovate with purpose."
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🚐 VanOtech</h3>
+        <h3>🛡️ CyberGuard AI</h3>
         <p>
-          <a href="https://github.com/Siddhartha39/VanOtech">
+          <a href="https://github.com/Siddhartha39/CyberGuard-AI">
             <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <img src="https://img.shields.io/badge/IOT-TELEMETRY-blue?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/AI--SECURITY-CYBERPUNK-00F2FE?style=for-the-badge" />
         </p>
       </div>
-      <p><b>Smart college transport logistics & real-time telemetry tracking.</b></p>
+      <p><b>Intelligent cybersecurity platform for real-time threat detection & vulnerability analysis.</b></p>
       <ul>
-        <li>🗺️ Live campus van tracking & ETA calculation with <b>Socket.io + Google Maps API</b></li>
-        <li>⏱️ Enhanced arrival forecast accuracy by <b>40%</b></li>
-        <li>🔒 Secure, encrypted student-driver communication portal</li>
-        <li>📊 Optimized backend APIs for resilient low-bandwidth connectivity</li>
+        <li>🤖 AI/ML-driven automated threat classification and malicious payload scanning</li>
+        <li>🔍 Real-time phishing URL detection and network traffic anomaly monitoring</li>
+        <li>⚡ Interactive threat intelligence dashboard with instant vulnerability scoring</li>
+        <li>🔒 Engineered robust, scalable APIs for rapid incident response & reporting</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/MERN_Stack-00F2FE?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Security-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
