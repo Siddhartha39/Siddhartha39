@@ -1,128 +1,206 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Siddhartha%20Singh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Patent%20Holder&descFontSize=18&descAlignY=62" width="100%" />
+  <!-- Dynamic Animated Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22,30&height=260&section=header&text=Siddhartha%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20Patent%20Holder&descFontSize=20&descAlignY=58" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+scalable+full-stack+web+applications;Real-time+systems+with+WebSockets+%26+Socket.io;Patent+Holder+for+CampusKart+%F0%9F%8F%85;Always+exploring%2C+building%2C+and+innovating+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Architecting+Scalable+Full-Stack+Web+Platforms;%F0%9F%94%A5+Real-Time+WebSockets+%26+Distributed+Systems;%F0%9F%8E%96%EF%B8%8F+Patent+Holder+for+CampusKart;%F0%9F%8F%86+SIH+Hackathon+%7C+Tech+Expo+%7C+Protech+Winner;%F0%9F%9A%80+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
   </a>
+
+  <br/>
 
   <!-- Social & Contact Badges -->
   <p align="center">
     <a href="https://siddharthaportfolio3939.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/siddhartha-singh-3939s" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:6387siddhartha@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Siddhartha39" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Siddhartha39&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge&logo=eye" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 About Me
 
-- 🎓 **Computer Science Engineering** undergraduate at **Pranveer Singh Institute of Technology (PSIT), Kanpur** (2024–2028).
-- 💡 **Passionate Full Stack Developer** specializing in MERN stack, real-time WebSocket communications, and microservices/APIs.
-- 📜 **Patent Holder** for **CampusKart**, an all-in-one full-stack campus marketplace & networking ecosystem.
-- 🏆 **Hackathon & Tech Expo Winner** — Secured top 13th rank among 500+ teams in SIH Internal Round, Tech Expo winner, and 2-time Protech winner.
-- 💼 **Freelance Developer** building production-grade web platforms and e-commerce solutions for clients.
-- ⚡ **Always curious** about real-time architectures, distributed systems, and building products that make a tangible impact.
+```yaml
+name: Siddhartha Singh
+role: Full Stack Software Engineer & MERN Specialist
+education: B.Tech in CSE @ Pranveer Singh Institute of Technology, Kanpur (2024 - 2028)
+patents: 1 (CampusKart: All-in-One Campus Ecosystem)
+passions: [ "Real-Time Systems", "Scalable Microservices", "IoT & GPS Telemetry", "Open Source" ]
+motto: "Code with precision, architect for scale, innovate with purpose."
+```
+
+- 💡 **Specialization**: Building high-performance, real-time web applications with **Node.js, React, Express, MongoDB, Socket.io & WebSockets**.
+- 📜 **Innovation**: Granted an official **Patent Certificate** for **CampusKart**, an innovative student commerce and networking platform.
+- 🏆 **Competitive Edge**: Secured **13th Rank among 500+ teams** in the Smart India Hackathon (SIH) Internal Round, won **Tech Expo**, and **2x Protech Winner**.
+- 🚀 **Freelance Impact**: Deployed production-grade web solutions for clients, including corporate platforms and e-commerce portals.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🏆 GitHub Trophies
 
 <div align="center">
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend & Realtime** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![OAuth 2.0](https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white) |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddhartha39&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophies" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 💻 Tech Stack & Toolbelt
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,py,html,css,react,tailwind,bootstrap,nodejs,express&perline=11&theme=dark" alt="Tech Stack Row 1" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,gcp,postman,git,github,vscode,netlify,vercel&perline=11&theme=dark" alt="Tech Stack Row 2" />
+  </a>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🔍 Detailed Categorized Skill Matrix (Click to expand)</b></summary>
+<br/>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `C` • `C++` (STL) • `JavaScript (ES6+)` • `Python` • `HTML5` • `CSS3` |
+| **Frontend Frameworks** | `React.js` • `Tailwind CSS` • `Bootstrap` • `Responsive UI/UX` |
+| **Backend & Real-Time** | `Node.js` • `Express.js` • `Socket.IO` • `WebSockets` • `RESTful APIs` |
+| **Databases & ORM** | `MongoDB` • `Mongoose` • `MySQL` • `Firebase Firestore/Auth` |
+| **DevOps & Cloud** | `Docker` • `Google Cloud Platform (GCP)` • `Render` • `Netlify` • `Vercel` |
+| **Tools & Security** | `Git` • `GitHub` • `VS Code` • `Postman` • `Google OAuth 2.0` |
+| **Core CS Coursework** | `Data Structures & Algorithms` • `OOPs` • `DBMS` • `OS` • `Computer Networks` |
+
+</details>
+
+---
+
+### 🚀 Featured Engineering Projects
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ CampusKart</h3>
-      <p align="center">
-        <a href="https://www.campuskart.shop/"><b>🌐 Live Demo</b></a> • 
-        <a href="https://github.com/Siddhartha39/campuskart"><b>💻 GitHub</b></a> • 
-        <a href="https://ibb.co/Q3wggwDK"><b>📜 Patent Certificate</b></a>
-      </p>
-      <p>A comprehensive campus hub integrating a peer-to-peer marketplace with social networking features (posts, live chat, comments) and dedicated internship/hackathon portals.</p>
+      <div align="center">
+        <h3>🛍️ CampusKart</h3>
+        <p>
+          <a href="https://www.campuskart.shop/">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
+          </a>
+          <a href="https://github.com/Siddhartha39/campuskart">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://ibb.co/Q3wggwDK">
+            <img src="https://img.shields.io/badge/📜_PATENT-FFD700?style=for-the-badge&logoColor=black" />
+          </a>
+        </p>
+      </div>
+      <p><b>A full-scale campus ecosystem & peer-to-peer marketplace.</b></p>
       <ul>
-        <li>⚡ Real-time updates & notifications via <b>WebSockets</b></li>
-        <li>🚀 Optimized MongoDB queries boosting engagement by <b>40%</b></li>
-        <li>🏅 <b>Granted Patent Certificate</b> for innovation in campus tech</li>
+        <li>⚡ Real-time chat, notifications & live feeds via <b>WebSockets</b></li>
+        <li>💼 Dedicated portals for student internships, placements, events & hackathons</li>
+        <li>📈 Optimized MongoDB aggregation pipelines boosting engagement by <b>40%</b></li>
+        <li>🎖️ <b>Granted Official Patent Certificate</b></li>
       </ul>
       <p align="center">
-        <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>WebSockets</code>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ Safepath</h3>
-      <p align="center">
-        <a href="https://github.com/Siddhartha39/Safepath"><b>💻 GitHub Repo</b></a>
-      </p>
-      <p>A real-time road safety application designed to alert commuters and drivers about accidents, road hazards, and dangerous route conditions.</p>
+      <div align="center">
+        <h3>🛡️ Safepath</h3>
+        <p>
+          <a href="https://github.com/Siddhartha39/Safepath">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
+        </p>
+      </div>
+      <p><b>Real-time road safety, collision avoidance & hazard broadcasting system.</b></p>
       <ul>
-        <li>📍 Live hazard reporting with <b>GPS tracking & WebSockets</b></li>
-        <li>⚡ Reduced backend latency by <b>35%</b> via optimized database indexing</li>
-        <li>📈 Boosted active user engagement by <b>40%</b></li>
+        <li>📍 Live hazard & accident alerts powered by <b>GPS telemetry & WebSockets</b></li>
+        <li>⚡ Query-level optimizations cutting backend latency by <b>35%</b></li>
+        <li>🛡️ Built to minimize on-road collisions and improve commuter safety</li>
+        <li>🚀 Increased active user platform engagement by <b>40%</b></li>
       </ul>
       <p align="center">
-        <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>WebSockets</code> <code>GPS</code>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPS_Telemetry-EA4335?style=flat-square&logo=googlemaps&logoColor=white" />
       </p>
     </td>
   </tr>
+  <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚐 VanOtech</h3>
-      <p align="center">
-        <a href="https://github.com/Siddhartha39/VanOtech"><b>💻 GitHub Repo</b></a>
-      </p>
-      <p>Smart college transportation management system featuring live vehicle telemetry, ETA alerts, and secure student-driver communications.</p>
+      <div align="center">
+        <h3>🚐 VanOtech</h3>
+        <p>
+          <a href="https://github.com/Siddhartha39/VanOtech">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <img src="https://img.shields.io/badge/IOT-TELEMETRY-blue?style=for-the-badge" />
+        </p>
+      </div>
+      <p><b>Smart college transport logistics & real-time telemetry tracking.</b></p>
       <ul>
-        <li>🗺️ Live van tracking & notifications using <b>Socket.io + Google Maps API</b></li>
-        <li>⏱️ Improved transport arrival accuracy by <b>40%</b></li>
-        <li>🔒 Secure communication layer between drivers & students</li>
+        <li>🗺️ Live campus van tracking & ETA calculation with <b>Socket.io + Google Maps API</b></li>
+        <li>⏱️ Enhanced arrival forecast accuracy by <b>40%</b></li>
+        <li>🔒 Secure, encrypted student-driver communication portal</li>
+        <li>📊 Optimized backend APIs for resilient low-bandwidth connectivity</li>
       </ul>
       <p align="center">
-        <code>MERN Stack</code> <code>Socket.io</code> <code>Google Maps API</code> <code>GPS</code>
+        <img src="https://img.shields.io/badge/MERN_Stack-00F2FE?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌱 SwasthFarm</h3>
-      <p align="center">
-        <a href="https://swasthfarm.netlify.app/"><b>🌐 Live Demo</b></a> • 
-        <a href="https://github.com/Siddhartha39/SwasthFarm"><b>💻 GitHub</b></a>
-      </p>
-      <p>An intelligent farm management platform to monitor 10,000+ poultry birds, mitigate environmental risks, and provide AI-driven biosecurity assistance.</p>
+      <div align="center">
+        <h3>🌱 SwasthFarm</h3>
+        <p>
+          <a href="https://swasthfarm.netlify.app/">
+            <img src="https://img.shields.io/badge/LIVE_APP-00F2FE?style=for-the-badge&logo=netlify&logoColor=black" />
+          </a>
+          <a href="https://github.com/Siddhartha39/SwasthFarm">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </div>
+      <p><b>AI-powered precision farm management & disease prevention platform.</b></p>
       <ul>
-        <li>🌦️ Reduced mortality risk by <b>30%</b> via <b>WeatherAPI</b> predictive alerts</li>
-        <li>🤖 Built-in <b>AI Chatbot</b> for automated queries & farming guidance</li>
-        <li>🔥 Real-time sync powered by <b>Firebase</b></li>
+        <li>🐔 Monitors <b>10,000+ poultry birds</b> with automated environmental tracking</li>
+        <li>🌦️ Reduced mortality risk by <b>30%</b> using predictive <b>WeatherAPI</b> alerts</li>
+        <li>🤖 Integrated <b>AI Chatbot</b> providing 24/7 automated biosecurity guidance</li>
+        <li>🔥 Real-time event streaming and state management via <b>Firebase</b></li>
       </ul>
       <p align="center">
-        <code>JavaScript</code> <code>Firebase</code> <code>AI Chatbot</code> <code>WeatherAPI</code> <code>HTML/CSS</code>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI_Chatbot-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/WeatherAPI-38BDF8?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -130,50 +208,71 @@
 
 ---
 
-### 💼 Freelance & Production Work
-
-- 🌐 **[Renuvia Recycling](https://renuviarecycling.com/)**: Developed the official responsive website utilizing modern frontend practices, performance tuning, and interactive components.
-- 🛒 **[Galaxy Computers & Services](https://galaxycomputers.vercel.app/home)**: Engineered a complete e-commerce platform with an optimized product catalog, seamless browsing, and customer transaction workflows.
-
----
-
-### 🏆 Honors & Achievements
-
-- 📜 **[Patent Certificate Granted](https://ibb.co/Q3wggwDK)** — Awarded patent for **CampusKart**, a full-stack campus ecosystem platform.
-- 🇮🇳 **Smart India Hackathon (SIH 2025)** — Secured **13th position among 500+ teams** in the internal hackathon round.
-- 🥇 **[Tech Expo Winner](https://erp.psit.ac.in/Document/Verify/PSITKNP28012557)** — Recognized for developing an outstanding innovative technology solution.
-- 🏅 **[2-Time Protech Winner](https://erp.psit.ac.in/Document/Verify/PSITKNP23062514)** — Won awards twice for presenting high-impact technical engineering projects ([Verification 1](https://erp.psit.ac.in/Document/Verify/PSITKNP23062514) & [Verification 2](https://erp.psit.ac.in/Document/Verify/PSITKNP23062510)).
-
----
-
-### 📊 GitHub Analytics
+### 💼 Freelance & Production Engagements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha39&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" height="165" alt="Siddhartha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha39&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha39&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+| Client & Project | Domain | Key Deliverables & Tech | Live Link |
+| :--- | :--- | :--- | :---: |
+| **Renuvia Recycling** | Sustainable Tech / Corporate | High-performance responsive web portal, component optimization, modern UX | [🌐 Visit Website](https://renuviarecycling.com/) |
+| **Galaxy Computers & Services** | E-Commerce / Retail | Full-fledged e-commerce platform, dynamic catalog, secure cart & checkout flow | [🛒 Visit Store](https://galaxycomputers.vercel.app/home) |
+
 </div>
 
 ---
 
-### 📫 Connect With Me
+### 🎖️ Honors & Key Milestones
+
+<div align="left">
+
+- 📜 **[Patent Certificate Granted](https://ibb.co/Q3wggwDK)** — Official patent awarded for **CampusKart**, a full-stack campus marketplace ecosystem.
+- 🇮🇳 **Smart India Hackathon (SIH 2025)** — Ranked **13th out of 500+ competing engineering teams** in the internal hackathon.
+- 🥇 **[Tech Expo Winner](https://erp.psit.ac.in/Document/Verify/PSITKNP28012557)** — 1st place award for outstanding technical innovation and software architecture.
+- 🏆 **[2x Protech Winner](https://erp.psit.ac.in/Document/Verify/PSITKNP23062514)** — Double-award recipient for engineering excellence ([Doc #1](https://erp.psit.ac.in/Document/Verify/PSITKNP23062514) • [Doc #2](https://erp.psit.ac.in/Document/Verify/PSITKNP23062510)).
+
+</div>
+
+---
+
+### 📊 Activity & Analytics
 
 <div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhartha39&theme=react-dark&hide_border=true&area=true&bg_color=030712&color=00F2FE&line=00F2FE&point=ffffff" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha39&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&text_color=94A3B8&icon_color=00F2FE" height="175" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha39&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&text_color=94A3B8" height="175" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha39&theme=radical&hide_border=true&background=030712&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" />
+</div>
+
+---
+
+### 💬 Let's Build Something Amazing Together!
+
+<div align="center">
+
+  <p>I'm always open to discussing new opportunities, collaborations, freelance projects, or innovative tech ideas.</p>
 
   <a href="mailto:6387siddhartha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/siddhartha-singh-3939s">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://siddharthaportfolio3939.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Siddhartha39">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/CHECK_PORTFOLIO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 
 </div>
@@ -181,5 +280,6 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+  <!-- Dynamic Animated Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22,30&height=120&section=footer" width="100%"/>
 </div>
