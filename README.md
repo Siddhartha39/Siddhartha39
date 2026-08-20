@@ -158,10 +158,12 @@ motto: "Code with precision, architect for scale, innovate with purpose."
       <div align="center">
         <h3>🛡️ CyberGuard AI</h3>
         <p>
-          <a href="https://github.com/Siddhartha39/CyberGuard-AI">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <a href="https://cyberguard-ai-one.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" />
           </a>
-          <img src="https://img.shields.io/badge/AI--SECURITY-CYBERPUNK-00F2FE?style=for-the-badge" />
+          <a href="https://github.com/Siddhartha39/CyberGuard-AI">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
         </p>
       </div>
       <p><b>Intelligent cybersecurity platform for real-time threat detection & vulnerability analysis.</b></p>
